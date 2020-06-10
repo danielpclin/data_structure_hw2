@@ -4,6 +4,9 @@
 
 #ifndef DATA_STRUCTURE_HW2_BINARYTREE_H
 #define DATA_STRUCTURE_HW2_BINARYTREE_H
+
+#include <vector>
+
 struct node {
     node* next;
     int index;

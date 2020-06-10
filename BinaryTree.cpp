@@ -3,9 +3,9 @@
 //
 
 #include <cstdlib>
-#include <vector>
 #include <iostream>
 #include <stack>
+#include <cassert>
 #include "BinaryTree.h"
 
 void BinaryTree::insert(int data) {
